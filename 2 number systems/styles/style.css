@@ -1,0 +1,30 @@
+body {
+    color: black;
+    background-color: dimgrey;
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    margin: 25px auto;
+}
+
+.input-div {
+    margin: 50px 25px;
+    font-size: 20px;
+}
+
+h3 {
+    margin: 5px 0;
+}
+
+#calculate-button {
+    margin: 25px 25px;
+    padding: 5px 10px;
+    font-size: 25px;
+    background-color: grey;
+    border: none;
+    border-radius: 15px;
+}
